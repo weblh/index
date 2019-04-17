@@ -1,0 +1,11 @@
+{
+	"id":"1",
+	"list":[
+		{"id":"1","title":"西瓜","price":"17.80","imgUrl":"http://m.qpic.cn/psb?/V12lol1V2IGQ5d/vhunZqdBd6hf2NAcp.CsCvFS0OXK2kszcS.S7yrhQiw!/b/dLkAAAAAAAAA&bo=MAHsAAAAAAADB*8!&rf=viewer_4&t=5"},
+		{"id":"2","title":"苹果","price":"9.80","imgUrl":"http://m.qpic.cn/psb?/V12lol1V2IGQ5d/.EW3Th.HzneHYLitTHrfVQ0aHOvJ.PeNzsgS4SY5TPU!/b/dFIBAAAAAAAA&bo=MAHsAAAAAAADF.8!&rf=viewer_4&t=5"},
+		{"id":"3","title":"香蕉","price":"6.99","imgUrl":"http://m.qpic.cn/psb?/V12lol1V2IGQ5d/NrOBA4vJwMN.rx6jZeOygfO5fRvkhyNkSOsABAMC7tU!/b/dFQBAAAAAAAA&bo=MAHsAAAAAAADF.8!&rf=viewer_4&t=5"},
+		{"id":"4","title":"菠萝","price":"9.99","imgUrl":"http://m.qpic.cn/psb?/V12lol1V2IGQ5d/H0tI.klvgI5AY.OceGDNxfdISnOprtmi7toAwgUsYlw!/b/dL8AAAAAAAAA&bo=MAHsAAAAAAADF.8!&rf=viewer_4&t=5"},
+		{"id":"5","title":"蓝莓","price":"16.80","imgUrl":"http://m.qpic.cn/psb?/V12lol1V2IGQ5d/Yqh3vj4xBOofRHbn8J.B0jVF8oivOPj.IqtfgeA9wKw!/b/dFIBAAAAAAAA&bo=MAHsAAAAAAADF.8!&rf=viewer_4&t=5"},
+		{"id":"6","title":"红树莓","price":"17.80","imgUrl":"http://m.qpic.cn/psb?/V12lol1V2IGQ5d/HP7kpGtPdZ3cRYfDeEZxjLnOcKmXZkuf0oRaCGpD2SY!/b/dFQBAAAAAAAA&bo=MAHsAAAAAAADF.8!&rf=viewer_4&t=5"}
+		]
+}
